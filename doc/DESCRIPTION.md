@@ -1,1 +1,1 @@
-Simple url shortener script
+Simple URL shortener script

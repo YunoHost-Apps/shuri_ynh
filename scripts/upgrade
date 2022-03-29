@@ -95,7 +95,7 @@ ynh_add_fpm_config
 #=================================================
 # INSTALL SHURI WITH COMPOSER
 #=================================================
-ynh_script_progression --message="Installing $app with Composer..." --weight=15
+ynh_script_progression --message="Installing $app with Composer..." --weight=3
 
 ynh_install_composer 
 
