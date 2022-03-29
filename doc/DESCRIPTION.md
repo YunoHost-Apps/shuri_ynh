@@ -1,0 +1,1 @@
+Simple URL shortener script
