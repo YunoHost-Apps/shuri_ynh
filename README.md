@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-URL Shortener
+Simple URL shortener script
 
 **Shipped version:** 1.0~ynh1
 

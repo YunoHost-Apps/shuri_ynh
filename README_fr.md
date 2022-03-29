@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Racourcisseur d'URL
+Simple URL shortener script
 
 **Version incluse :** 1.0~ynh1
 
