@@ -89,7 +89,7 @@ ynh_script_progression --message="Configuring PHP-FPM..." --weight=1
 ynh_add_fpm_config
 
 #=================================================
-# INSTALL  WITH COMPOSER
+# INSTALL SHURI WITH COMPOSER
 #=================================================
 ynh_script_progression --message="Installing $app with Composer..." --weight=15
 
