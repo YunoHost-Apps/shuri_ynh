@@ -22,7 +22,6 @@ Script simple de raccourcissement d'URL.
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://github.com/pips-/shuri>
-* Dépôt de code officiel de l’app : <https://github.com/pips-/shuri>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_shuri>
 * Signaler un bug : <https://github.com/YunoHost-Apps/shuri_ynh/issues>
 
