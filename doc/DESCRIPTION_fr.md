@@ -1,1 +1,0 @@
-Script simple de raccourcissement d'URL.
