@@ -21,7 +21,7 @@ Simple URL shortener script
 **Shipped version:** 1.0~ynh1
 ## Documentation and resources
 
-* Official app website: <https://github.com/pips-/shuri>
+* Upstream app code repository: <https://github.com/pips-/shuri>
 * Report a bug: <https://github.com/YunoHost-Apps/shuri_ynh/issues>
 
 ## Developer info
