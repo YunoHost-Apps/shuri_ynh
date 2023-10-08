@@ -1,5 +1,0 @@
-SOURCE_URL=https://github.com/pips-/shuri/archive/3204be01ad0ffefbfee7507c4a05694a64c761fb.tar.gz
-SOURCE_SUM=d9f8b6ef06cf08b593850e180be4f8efba5f5e3495045930f21e7927b4beb95c
-SOURCE_SUM_PRG=sha256sum
-ARCH_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
