@@ -11,7 +11,7 @@ maintainers = ["frju365"]
 
 [upstream]
 license = "MIT"
-website = "https://github.com/pips-/shuri"
+code = "https://github.com/pips-/shuri"
 
 [integration]
 yunohost = ">= 11.2"
