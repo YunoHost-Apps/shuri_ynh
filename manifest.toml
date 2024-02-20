@@ -39,6 +39,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/pips-/shuri/archive/3204be01ad0ffefbfee7507c4a05694a64c761fb.tar.gz"
         sha256 = "d9f8b6ef06cf08b593850e180be4f8efba5f5e3495045930f21e7927b4beb95c"
+        autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
