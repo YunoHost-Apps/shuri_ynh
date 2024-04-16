@@ -18,7 +18,7 @@ NON debe editarse manualmente.
 
 Simple URL shortener script
 
-**Versión proporcionada:** 1.0~ynh1
+**Versión proporcionada:** 1.0~ynh2
 ## Documentación e recursos
 
 - Repositorio de orixe do código: <https://github.com/pips-/shuri>

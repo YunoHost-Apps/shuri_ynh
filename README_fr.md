@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Simple URL shortener script
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.0~ynh2
 ## Documentations et ressources
 
 - Dépôt de code officiel de l’app : <https://github.com/pips-/shuri>

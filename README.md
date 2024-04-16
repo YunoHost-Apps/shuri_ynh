@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Shuri with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Shuri quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Simple URL shortener script
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.0~ynh2
 ## Documentation and resources
 
 - Upstream app code repository: <https://github.com/pips-/shuri>
