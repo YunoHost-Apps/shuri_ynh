@@ -19,6 +19,10 @@ It shall NOT be edited by hand.
 Simple URL shortener script
 
 **Shipped version:** 1.0~ynh2
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentation and resources
 
 - Upstream app code repository: <https://github.com/pips-/shuri>

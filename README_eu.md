@@ -19,6 +19,10 @@ EZ editatu eskuz.
 Simple URL shortener script
 
 **Paketatutako bertsioa:** 1.0~ynh2
+## :red_circle: Ezaugarri zalantzagarriak
+
+- **Jatorrizko garapena utzita**: Software honek ez du arduradunik. Denborak aurrera egin ahala funtzionatzeari utziko dio, konpondu gabeko segurtasun arazoak izango ditu, etab.
+
 ## Dokumentazioa eta baliabideak
 
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/pips-/shuri>

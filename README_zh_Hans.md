@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Shuri
+# YunoHost 上的 Shuri
 
 [![集成程度](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![工作状态](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
 
@@ -19,6 +19,10 @@
 Simple URL shortener script
 
 **分发版本：** 1.0~ynh2
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## 文档与资源
 
 - 上游应用代码库： <https://github.com/pips-/shuri>

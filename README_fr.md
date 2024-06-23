@@ -19,6 +19,10 @@ Il NE doit PAS être modifié à la main.
 Simple URL shortener script
 
 **Version incluse :** 1.0~ynh2
+## :red_circle: Anti-fonctionnalités
+
+- **Application non maintenue **: Ce logiciel n'est plus maintenu. Attendez-vous à ce qu'il ne fonctionne plus avec le temps, et que l'on découvre des failles de sécurité qui ne seront pas corrigées, etc.
+
 ## Documentations et ressources
 
 - Dépôt de code officiel de l’app : <https://github.com/pips-/shuri>

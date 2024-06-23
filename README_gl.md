@@ -19,6 +19,10 @@ NON debe editarse manualmente.
 Simple URL shortener script
 
 **Versión proporcionada:** 1.0~ynh2
+## :red_circle: Debes considerar
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentación e recursos
 
 - Repositorio de orixe do código: <https://github.com/pips-/shuri>
