@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Shuri para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/shuri)](https://ci-apps.yunohost.org/ci/apps/shuri/)
+![Estado funcional](https://apps.yunohost.org/badge/state/shuri)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/shuri)
 
 [![Instalar Shuri con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
@@ -18,7 +20,7 @@ No se debe editar a mano.
 
 Simple URL shortener script
 
-**Versión actual:** 1.0~ynh2
+**Versión actual:** 2018.04.27~ynh1
 ## :red_circle: Características no deseables
 
 - **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
@@ -31,7 +33,7 @@ Simple URL shortener script
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/shuri_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/shuri_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
