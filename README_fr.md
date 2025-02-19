@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Shuri pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/shuri)](https://ci-apps.yunohost.org/ci/apps/shuri/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/shuri)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/shuri)
 
 [![Installer Shuri avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
@@ -18,7 +20,7 @@ Il NE doit PAS être modifié à la main.
 
 Simple URL shortener script
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 2018.04.27~ynh1
 ## :red_circle: Anti-fonctionnalités
 
 - **Application non maintenue **: Ce logiciel n'est plus maintenu. Attendez-vous à ce qu'il ne fonctionne plus avec le temps, et que l'on découvre des failles de sécurité qui ne seront pas corrigées, etc.
