@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Shuri
 
-[![集成程度](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![工作状态](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/shuri)](https://ci-apps.yunohost.org/ci/apps/shuri/)
+![工作状态](https://apps.yunohost.org/badge/state/shuri)
+![维护状态](https://apps.yunohost.org/badge/maintained/shuri)
 
 [![使用 YunoHost 安装 Shuri](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
@@ -18,7 +20,7 @@
 
 Simple URL shortener script
 
-**分发版本：** 1.0~ynh2
+**分发版本：** 2018.04.27~ynh1
 ## :red_circle: 负面特征
 
 - **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.

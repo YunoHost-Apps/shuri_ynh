@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Shuri YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/shuri)](https://ci-apps.yunohost.org/ci/apps/shuri/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/shuri)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/shuri)
 
 [![Instalatu Shuri YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
@@ -18,7 +20,7 @@ EZ editatu eskuz.
 
 Simple URL shortener script
 
-**Paketatutako bertsioa:** 1.0~ynh2
+**Paketatutako bertsioa:** 2018.04.27~ynh1
 ## :red_circle: Ezaugarri zalantzagarriak
 
 - **Jatorrizko garapena utzita**: Software honek ez du arduradunik. Denborak aurrera egin ahala funtzionatzeari utziko dio, konpondu gabeko segurtasun arazoak izango ditu, etab.

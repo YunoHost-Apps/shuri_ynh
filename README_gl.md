@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Shuri para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/shuri.svg)](https://dash.yunohost.org/appci/app/shuri) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/shuri.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/shuri.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/shuri)](https://ci-apps.yunohost.org/ci/apps/shuri/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/shuri)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/shuri)
 
 [![Instalar Shuri con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shuri)
 
@@ -18,7 +20,7 @@ NON debe editarse manualmente.
 
 Simple URL shortener script
 
-**Versión proporcionada:** 1.0~ynh2
+**Versión proporcionada:** 2018.04.27~ynh1
 ## :red_circle: Debes considerar
 
 - **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
